@@ -1,10 +1,10 @@
 ---
 layout: project
-title: About My Project
+title: Developing Edge AI Applications for Human-Robot Collaboration in LEGO Assembling Operations
 permalink: /about-my-project.html
 
 subtitle: Human-Computer Interaction & Adaptive Systems
-project_title: "My Summer Research Project"
+project_title: "Developing Edge AI Applications for Human-Robot Collaboration in LEGO Assembling Operations"
 
 problem: |
   Briefly describe the problem your project tackles. Who is affected? Why does this
@@ -31,10 +31,10 @@ outcome: |
 final_report_url: https://example.com/your-report.pdf
 
 grad_mentor:
-  name: Alex Morgan
+  name: Derrick Mirindi
   linkedin: https://www.linkedin.com/in/example
 
 faculty_mentor:
-  name: Dr. Pat Nguyen
+  name: Dr. Yuhan Jiang
   linkedin: https://www.linkedin.com/in/example
 ---
