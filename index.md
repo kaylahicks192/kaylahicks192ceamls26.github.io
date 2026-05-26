@@ -13,7 +13,7 @@ quick_facts:
   - "🚀 I love writing, trying new food, and traveling."
 
 linkedin: https://www.linkedin.com/in/kayla-hicks-1172a2381/
-image:/assets/images/linkedinpfp.png
+image: /assets/images/linkedinpfp.png
 
 # A "Currently" block — three short status lines for the home page.
 currently:
