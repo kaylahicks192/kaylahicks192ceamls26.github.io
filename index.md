@@ -7,12 +7,12 @@ description: My CEAMLS SAIRI Summer Research Site
 motto: "Curious about how research can shape better tools for everyday life."
 
 quick_facts:
-  - "🎓 Junior, Computer Science"
-  - "🔬 Interested in Quantum Physics"
-  - "📍 Based in Baltimore, MD"
-  - "🚀 I like pineapples"
+  - "🎓 Sophomore, Cybersecurity Inteligence Management"
+  - "🔬 Interested in Cybersecurity Analytics"
+  - "📍 Based in Bowie, MD"
+  - "🚀 I love writing, trying new food, and traveling."
 
-linkedin: https://www.linkedin.com/in/example
+linkedin: https://www.linkedin.com/in/kayla-hicks-1172a2381/
 image: /assets/images/profile.svg
 
 # A "Currently" block — three short status lines for the home page.
