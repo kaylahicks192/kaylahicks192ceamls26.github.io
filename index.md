@@ -17,10 +17,10 @@ image: /assets/images/linkedinpfp.png
 
 # A "Currently" block — three short status lines for the home page.
 currently:
-  - label: Reading
-    text: "The Design of Everyday Things — Don Norman"
+  - label: Watching
+    text: "Jenifer's Body - Netflix"
   - label: Building
-    text: "A small Raspberry Pi sensor logging dashboard"
+    text: "Edge AI Applications for Human-Robot Collaboration in LEGO Assembling Operations"
   - label: Wondering
-    text: "How accessibility research can shape consumer hardware"
+    text: "How AI applications can help and relate to LEGO assembling, and why it is important"
 ---
