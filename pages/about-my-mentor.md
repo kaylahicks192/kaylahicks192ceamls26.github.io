@@ -5,7 +5,10 @@ permalink: /about-my-mentor.html
 
 graduate_mentor:
   name: Derrick Mirindi
-  title: PhD Candidate, Computer Engineering
+  title: Ph.D. in Architecture, Urbanism, and Built Environments!
+  School of Architecture and Planning
+
+
   image: /assets/images/graduate-student-mentor.svg
   website: (https://morganstateuniversity365-my.sharepoint.com/:p:/g/personal/yuhan_jiang_morgan_edu/IQBvdlmmNm2BR7ip4qZWW72IAddhXpfE2NQan-YC4A2pQqQ?rtime=Vu2CJgC83kg)
   bio: |
