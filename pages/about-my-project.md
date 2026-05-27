@@ -9,6 +9,7 @@ project_title: "Developing Edge AI Applications for Human-Robot Collaboration in
 problem: |
   Briefly describe the problem your project tackles. Who is affected? Why does this
   matter? What gap or limitation are you trying to address?
+  We are trying to target a variety of individuals, as this project can help people with disabilities (acessibility). The aim is to improve the experience people have in the lego assembly operation.
 
   Aim for two to three short paragraphs. Plain language is great — your audience
   may not be specialists in your sub-field.
@@ -16,7 +17,7 @@ problem: |
 approach: |
   Describe how you'll approach the problem. A bulleted plan works well:
 
-  - Step 1 — what you'll build, collect, or analyze first
+  - Step 1 — We are going to use YOLO, an object detection and image segmentation model. 
   - Step 2 — the next phase of the work
   - Step 3 — how you'll evaluate or test
   - Step 4 — how you'll communicate the results
