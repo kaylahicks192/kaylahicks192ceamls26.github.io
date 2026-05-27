@@ -6,7 +6,6 @@ permalink: /about-my-mentor.html
 graduate_mentor:
   name: Derrick Mirindi
   title: Ph.D. in Architecture, Urbanism, and Built Environments!
-  School of Architecture and Planning
 
 
   image: /assets/images/graduate-student-mentor.svg
