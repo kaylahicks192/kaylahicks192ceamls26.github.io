@@ -4,7 +4,7 @@ title: About My Mentors
 permalink: /about-my-mentor.html
 
 graduate_mentor:
-  name: Alex Morgan
+  name: Derrick Mirindi
   title: PhD Candidate, Computer Engineering
   image: /assets/images/graduate-student-mentor.svg
   website: https://example.com/alex-morgan
@@ -17,14 +17,13 @@ graduate_mentor:
     for undergraduate research participation.
 
 faculty_mentor:
-  name: Dr. Pat Nguyen
+  name: Dr. Yuhan Jiang
   title: Associate Professor, School of Engineering
   image: /assets/images/faculty-mentor.svg
   website: https://example.com/pat-nguyen
   bio: |
-    Dr. Nguyen leads a research group focused on human-centered computing and
-    accessibility. Their guidance has helped me sharpen my research questions and
-    think more carefully about real-world impact.
+    Dr. Nguyen leads a research group focused on developing edge AI applications for human-robot collaboration in LEGO assembling operations. Their guidance will helped me sharpen my research questions and
+    skills. I love legos, so I really want to learn about AI in relation to LEGOs.
 
     Dr. Nguyen has mentored many SAIRI students and is a champion for broadening
     participation in computing.
