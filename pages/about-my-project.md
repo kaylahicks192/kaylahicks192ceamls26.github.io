@@ -11,9 +11,6 @@ problem: |
   matter? What gap or limitation are you trying to address?
   We are trying to target a variety of individuals, as this project can help people with disabilities (acessibility). The aim is to improve the experience people have in the lego assembly operation.
 
-  Aim for two to three short paragraphs. Plain language is great — your audience
-  may not be specialists in your sub-field.
-
 approach: |
   Describe how you'll approach the problem. A bulleted plan works well:
 
