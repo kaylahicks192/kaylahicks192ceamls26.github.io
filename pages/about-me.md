@@ -1,33 +1,31 @@
 ---
 layout: about
-title: About Me
+title: Leanr About Me!
 permalink: /about-me.html
 
 about:
-  name: Clyde Tandjong
-  role: Junior, Computer Science
+  name: Kayla Hicks
+  role: Sophomore, Cybersecurity Intelligence Management, Minoring in Criminal Justice
   image: /assets/images/profile.svg
   linkedin: https://www.linkedin.com/in/example
   bio: |
-    Hi! I'm Clyde, a Computer Science student in the CEAMLS SAIRI Summer Research program.
+    Good day everyone! I'm Kayla, a Cybersecurity undergraduate major in the CEAMLS SAIRI Summer Research program.
 
-    My research interests sit at the intersection of human-computer interaction and applied
-    machine learning. I'm especially curious about how everyday tools can be made more
-    accessible and adaptive through smart software.
+    When I first thought of assisted building with LEGOs, I thought of accessibility. My brother has a mental disorder, and I know a  variety of adults with physical limitations. This is why I was attracted to this research pronject. Through smart software< I thought thar the implementation of accesbility through a robot arm, demonstrated with LEGOs was the perfect opportunity. 
 
-    Outside of class, you'll find me biking trails, learning languages, or working on small
-    side projects with friends.
+    Outside of class, you'll find me traveling, finding internships, or shopping
+    with friends!
 
   hobbies:
-    - icon: 🎨
-      title: Digital Art
-      description: I make small illustrations and pixel art in my spare time.
-    - icon: 🚲
-      title: Biking
-      description: Weekend trail rides are how I reset.
-    - icon: 📚
-      title: Reading
-      description: Sci-fi novels and design essays — both equally inspiring.
+    - icon: 🍔
+      title: Food Critic!
+      description: I LOVE trying new foods!
+    - icon: 🛍️
+      title: Shopping
+      description: Shopping for new clothes gives me energy!
+    - icon: 📖
+      title: Research
+      description: I did research since high school! I am interested in continuing this path!
 
   gallery:
     - image: /assets/images/gallery-1.svg
