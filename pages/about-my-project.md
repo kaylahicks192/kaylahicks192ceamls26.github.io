@@ -7,7 +7,7 @@ subtitle: Human-Computer Interaction & Adaptive Systems
 project_title: "Developing Edge AI Applications for Human-Robot Collaboration in LEGO Assembling Operations"
 
 problem: |
- This project focuses on improving human–robot collaboration in LEGO assembly operations using Edge AI systems. The current challenge is   that robotic assembly systems often lack adaptability when working alongside humans, especially in dynamic, small-scale tasks like LEGO   construction. This limitation reduces efficiency and accessibility, particularly for individuals with disabilities who could benefit from   assistive robotic systems.
+ This project focuses on improving human–robot collaboration in LEGO assembly operations using Edge AI systems. The current challenge is   that robotic assembly systems often lack adaptability when working alongside humans. This fact stands for small scalability actions, such as building legos. This limitation reduces efficiency and accessibility, particularly for individuals with disabilities who could benefit from robotic systems like these.
 
 approach: |
   Describe how you'll approach the problem. A bulleted plan works well:
