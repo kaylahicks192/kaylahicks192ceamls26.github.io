@@ -7,9 +7,7 @@ subtitle: Human-Computer Interaction & Adaptive Systems
 project_title: "Developing Edge AI Applications for Human-Robot Collaboration in LEGO Assembling Operations"
 
 problem: |
-  Briefly describe the problem your project tackles. Who is affected? Why does this
-  matter? What gap or limitation are you trying to address?
-  We are trying to target a variety of individuals, as this project can help people with disabilities (acessibility). The aim is to improve the experience people have in the lego assembly operation.
+ This project focuses on improving human–robot collaboration in LEGO assembly operations using Edge AI systems. The current challenge is   that robotic assembly systems often lack adaptability when working alongside humans, especially in dynamic, small-scale tasks like LEGO   construction. This limitation reduces efficiency and accessibility, particularly for individuals with disabilities who could benefit from   assistive robotic systems.
 
 approach: |
   Describe how you'll approach the problem. A bulleted plan works well:
