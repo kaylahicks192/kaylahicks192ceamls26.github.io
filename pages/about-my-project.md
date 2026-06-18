@@ -14,10 +14,14 @@ problem: |
 approach: |
   Describe how you'll approach the problem. A bulleted plan works well:
 
-  - Step 1 — We are going to use YOLO, an object detection and image segmentation model. 
-  - Step 2 — the next phase of the work
-  - Step 3 — how you'll evaluate or test
-  - Step 4 — how you'll communicate the results
+  - Step 1 — Build foundational research and technical skills, including research writing, literature review, Python programming, OpenCV, YOLO-based object detection, and LabelMe annotation tools  
+  - Step 2 — Set up hardware and software environments, including webcam systems, an edge AI computing device, a robotic arm, and ROS (Robot Operating System) for robot control  
+  - Step 3 — Prepare and label a LEGO dataset using annotated images of individual LEGO components for training  
+  - Step 4 — Train and fine-tune a YOLO-based object detection model to recognize LEGO pieces, then evaluate model performance using accuracy and detection metrics  
+  - Step 5 — Develop Python-based edge AI algorithms to integrate real-time object detection with robotic control  
+  - Step 6 — Debug, optimize, and refine system performance for speed, accuracy, and stability in real-time operation  
+  - Step 7 — Test full system integration between vision model and robotic arm for autonomous and assisted LEGO assembly tasks  
+  - Step 8 — Communicate results through documentation, presentations, and research reporting  
 
   Mention the specific tools, datasets, or methods you'll use.
 
