@@ -26,9 +26,7 @@ approach: |
   Mention the specific tools, datasets, or methods you'll use.
 
 outcome: |
-  What do you expect to produce by the end of the program? A working prototype?
-  A research poster? A short paper? Describe the artifacts and what you hope
-  others will be able to do with them.
+   By the end of the program, the expected outcome is a working edge AI prototype that integrates real-time LEGO object detection with a   robotic arm for assisted assembly tasks. The project will produce a trained and fine-tuned YOLO model, a labeled LEGO dataset, and   functional Python code for system integration. Additional deliverables include a research report or short paper and a presentation or   poster demonstrating system performance and potential applications in accessibility-focused human–robot collaboration.
 
 final_report_url: https://example.com/your-report.pdf
 
