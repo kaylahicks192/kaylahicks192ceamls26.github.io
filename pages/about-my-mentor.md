@@ -8,7 +8,7 @@ graduate_mentor:
   title: Ph.D. in Architecture, Urbanism, and Built Environments!
 
 
-  image: /assets/images/graduate-student-mentor.svg
+  image: /assets/images/graduate-mentor.jpeg
   website: https://www.linkedin.com/in/derrick-mirindi-18b538b8/
   bio: |
     I am currently working with Dr. Derrick Mirindi, my graduate student mentor. With advanced degrees in civil engineering, water science and engineering (Hydroinformatics), and ongoing PhD research in Architecture, Urbanism and Built Environments at Morgan State University, plus a Master's in Computer and Information Technology at the University of Pennsylvania, he focuses on applying data-driven models, remote sensing, and Building Information Modeling (BIM) to address complex challenges in infrastructure and environmental systems.
