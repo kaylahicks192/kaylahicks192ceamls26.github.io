@@ -20,7 +20,7 @@ faculty_mentor:
   name: Dr. Yuhan Jiang
   title: Assistant Professor at Morgan State University, School of Engineering
   image: /assets/images/faculty-mentor.png
-  website: linkedin.com/in/yuhan-jiang-aa9097b9?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+  website: https://www.linkedin.com/in/yuhan-jiang-aa9097b9/
   
   bio: |
     Dr. Yuhan leads a research group focused on developing edge AI applications for human-robot collaboration in LEGO assembling operations. Their guidance will helped me sharpen my research questions and
