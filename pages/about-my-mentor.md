@@ -19,7 +19,7 @@ graduate_mentor:
 faculty_mentor:
   name: Dr. Yuhan Jiang
   title: Assistant Professor at Morgan State University, School of Engineering
-  image: /assets/images/faculty-mentor.svg
+  image: /assets/images/faculty-mentor.png
   website: linkedin.com/in/yuhan-jiang-aa9097b9?utm_source=share_via&utm_content=profile&utm_medium=member_ios
   
   bio: |
