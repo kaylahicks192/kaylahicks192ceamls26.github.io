@@ -7,7 +7,7 @@ about:
   name: Kayla Hicks
   role: Sophomore, Cybersecurity Intelligence Management, Minoring in Criminal Justice
   image: /assets/images/profile.svg
-  linkedin: https://www.linkedin.com/in/example
+  linkedin: https://www.linkedin.com/in/kayla-hicks-1172a2381/
   bio: |
     Good day everyone! I'm Kayla, a Cybersecurity undergraduate major in the CEAMLS SAIRI Summer Research program.
 
