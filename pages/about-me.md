@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Kayla Hicks
   role: Sophomore, Cybersecurity Intelligence Management, Minoring in Criminal Justice
-  image: /assets/images/profile.svg
+  image: /assets/images/linkedinpfp.png
   linkedin: https://www.linkedin.com/in/kayla-hicks-1172a2381/
   bio: |
     Good day everyone! I'm Kayla, a Cybersecurity undergraduate major in the CEAMLS SAIRI Summer Research program.
@@ -28,10 +28,10 @@ about:
       description: I did research since high school! I am interested in continuing this path!
 
   gallery:
-    - image: /assets/images/gallery-1.svg
-      caption: A great day on the trail.
-    - image: /assets/images/gallery-2.svg
-      caption: One of my recent illustrations.
-    - image: /assets/images/gallery-3.svg
-      caption: Hanging out with friends after class.
+    - image: /assets/images/jennifers_body.jpg
+      caption: Here is my favorite movie!
+    - image: /assets/images/hello_kitty.png
+      caption: One of my favorite cartoon characters.
+    - image: /assets/images/love_is_kind.png
+      caption: Favorite bible verse
 ---
